@@ -2,12 +2,6 @@
 import './App.css'
 import Gallery from './components/Gallery/Gallery'
 import front from './assets/img/front.jpeg'
-import portfolio1 from './assets/img/portfolio/1.jpeg'
-import portfolio2 from './assets/img/portfolio/2.jpeg'
-import portfolio3 from './assets/img/portfolio/3.jpeg'
-import portfolio4 from './assets/img/portfolio/4.jpeg'
-import portfolio5 from './assets/img/portfolio/5.jpeg'
-import portfolio6 from './assets/img/portfolio/6.jpeg'
 
 function App() {
 
